@@ -2,6 +2,9 @@
 .
 INTEGRANTES:
 
-Asmat Córdova Fernando José
-Gonzales Leiva Diego André
-Herrera Hurtado José Ernesto
+
+-Asmat Córdova Fernando José
+
+-Gonzales Leiva Diego André
+
+-Herrera Hurtado José Ernesto
