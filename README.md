@@ -1,10 +1,5 @@
 # pdsei-2023-asmatcor
-
 ## INTEGRANTES:
-
-
--Asmat Córdova Fernando José
-
--Gonzales Leiva Diego André
-
--Herrera Hurtado José Ernesto
+1. Asmat Córdova Fernando José
+2. Gonzales Leiva Diego André
+3. Herrera Hurtado José Ernesto
